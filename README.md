@@ -8,7 +8,7 @@ There may not be much here but that will be soon to change as I become more in d
 
 🔭 I’m currently working on **Creating Java Plugins**
 
-🌱 I’m currently learning **Java, HTML, CSS**
+🌱 I’m currently learning **Java, HTML, CSS, Python**
 
 # Contact
 
