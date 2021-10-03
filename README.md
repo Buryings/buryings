@@ -1,4 +1,4 @@
-### Hi there, I'm Buryings 👋
+### Hi there, I'm Buryings, but you can call me Jay! 👋
 
 I am a 17 year old Beginner Developer from the UK who has an interest in computer science and video games. 
 
