@@ -1,6 +1,6 @@
 ### Hi there, I'm Buryings, but you can call me Jay! 👋
 
-I am a 17 year old Beginner Developer from the UK who has an interest in computer science and video games. I am currently studying a **Level 2 Computer Science** Course in college.
+I am a 17 year old Beginner Developer from the UK who has an interest in computer science and video games. I am currently studying an **Level 2 (Intermediate) Computer Science** Course in college.
 
 There may not be much here but that will be soon to change as I become more in depth with programming.
 
