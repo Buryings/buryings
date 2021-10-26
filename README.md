@@ -1,12 +1,11 @@
-### Hi there, I'm Buryings, but you can call me Jay! 👋
+### Hi, I'm Jay 👋
 
-I am a 17 year old Beginner Developer from the UK who has an interest in computer science and video games. I am currently studying an **Level 2 (Intermediate) Computer Science** Course in college.
+I am a 17 year old Beginner Developer from the UK who has an interest in computer science, video games and digital art. 
 
-There may not be much here but that will be soon to change as I become more in depth with programming.
+There may not be much here but that will be soon to change as I become more in depth with programming :)
 
-# What I'm doing
+# What I'm currently doing
 
-🔭 I’m currently working on **Creating Minecraft Java Plugins**
 
 🌱 I’m currently learning **Java, HTML, CSS, Python**
 
@@ -29,4 +28,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🔭 I’m currently working on **Creating Minecraft Java Plugins**
 -->
