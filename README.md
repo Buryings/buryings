@@ -13,8 +13,6 @@ There may not be much here but that will be soon to change as I become more in d
 
 Discord **Bury#0001**
 
-Email **buryingsofficial@gmail.com**
-
 <!--
 **Buryings/buryings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
