@@ -7,7 +7,8 @@ There may not be much here but that will be soon to change as I become more in d
 # What I'm currently doing
 
 
-🌱 I’m currently learning **Java, HTML, CSS, Python, React, JavaScript & EJS**
+- 🌱 I’m currently learning **Java, HTML, CSS, Python, React, JavaScript & EJS**
+- ⚡ I also like to work with Databases.
 
 # Contact
 
